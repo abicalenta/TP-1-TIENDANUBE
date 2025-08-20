@@ -1,0 +1,157 @@
+body{
+    background-color: #0050c3;
+}
+
+.logo{
+    width: 200px;
+    margin-top: 1px;
+    margin-left: 20px;
+}
+
+.seccionazul{
+    background-color: #0050c3;
+}
+
+.login{
+    width: 90px;
+    margin-top: 30px;
+}
+
+h1{
+    color: aliceblue;
+    font-style: Nunito;
+}
+
+
+.boton-mail{
+    color: aliceblue;
+    size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm; 
+    width: 230px;        
+    height: 45px;       
+    padding: 15px;
+}
+
+
+.boton-iniciar-sesion{
+    width: 185px;
+    margin-top: 12px;
+    background-color: aliceblue;
+    color: #0050c3;
+    border-radius: 80px;
+    size: 5px;
+    padding-bottom: 15cm;
+    height: 45px;
+}
+
+.texto-1{
+    flex: 100px;
+}
+
+.seccion-blanca{
+    background-color: white;
+    padding: 60px;
+    margin: 20px;
+}
+
+.imagen-2{
+    width: 300px;
+    margin-top:25px;
+}
+
+.boton-caja1{
+    width: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;               
+    padding: 15px;
+    height:150px
+
+}
+
+.boton-caja2{
+    width: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;              
+    padding: 15px;
+    height:150px
+}
+
+.boton-caja3{
+    width: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;              
+    padding: 15px;
+    height:150px
+}
+
+.imagen-3{
+    width: 200px;
+    margin-top:25px; 
+}
+
+.boton-caja4{ 
+    width: 1050px;
+    margin: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm; 
+    padding: 5px;
+    background-color:#0050c3;
+}
+
+.boton-box1{
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;              
+    padding: 15px;
+    height:115px;
+}
+
+.boton-box2{
+    width: 1500px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;              
+    padding: 15px;
+    height:115px;
+}
+
+.boton-box3{
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm;              
+    padding: 15px;
+    height:115px;
+}
+
+.imagen-04{
+    width: 200px;
+    margin-top:25px;
+}
+
+.boton-box6{
+    width: 250px;
+    margin: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5cm; 
+    padding: 5px;
+    background-color:#0050c3;
+}
+
+footer{
+    margin-top: 90px;
+    margin-bottom: 60px;
+    margin-left: 90px;
+}
+
+.flex-box{
+    flex-direction: row;
+}
